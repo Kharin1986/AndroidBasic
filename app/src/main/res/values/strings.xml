@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TestApplication</string>
-
+    <string name="weather">Погода</string>
+    <string name="button">Закрыть</string>
 </resources>
